@@ -1,0 +1,4 @@
+{
+  "default_applications": ["https://mcpoc-app.herokuapp.com/masterpass-app.json"],
+  "supported_origins": "*"
+}
