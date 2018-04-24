@@ -1,4 +1,4 @@
 {
-  "default_applications": ["https://mcpoc-app.herokuapp.com/masterpass-app.json"],
+  "default_applications": ["https://dev.retailmine.co.uk/masterpass-app.json"],
   "supported_origins": "*"
 }
